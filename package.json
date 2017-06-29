@@ -1,0 +1,20 @@
+{
+  "name": "oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maxymiser.js",
+  "scripts": {
+    "test": "mocha ./*.test.js --recursive --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-register": "^6.24.1",
+    "chai": "^4.0.2",
+    "jsdom": "^11.0.0",
+    "jsdom-global": "^3.0.2",
+    "mocha": "^3.4.2",
+    "mocha-jsdom": "^1.1.0"
+  }
+}
